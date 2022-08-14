@@ -1,6 +1,6 @@
 # Modelagem de Software
 ## Projeto Blind Vision:
-Nesta atividade, foi desenvolvido um projeto de engenharia reversa com diagramas e casos de uso, com base a partir da leitura do artigo sobre Visão Cega referente ao protótipo Blind Vision.
+Nesta atividade, foi desenvolvido um projeto de engenharia reversa com diagramas e casos de uso, com base a partir da leitura do artigo sobre Visão Cega, referente ao protótipo Blind Vision.
 
 -> Leitura disponível em: https://www.atenaeditora.com.br/wp-content/uploads/2019/07/E-BOOK-Ciencias-Exatas-e-da-Terra-3-1.pdf
 
